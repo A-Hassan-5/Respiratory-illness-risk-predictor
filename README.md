@@ -49,7 +49,7 @@ Respiratory-illness-risk-predictor/
 
 ── data/
 
-   └── imputed_daily_AQ_2015_2025.csv
+── imputed_daily_AQ_2015_2025.csv
 
 ── model.ipynb                #model training & evaluation notebook
 
