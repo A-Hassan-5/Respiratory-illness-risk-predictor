@@ -37,27 +37,27 @@ State names are retained for analysis and visualization, but not used as model i
 
 
 Project Structure :
+
 Respiratory-illness-risk-predictor/
 
-│
 
-├── app.py                     #Streamlit application
+── app.py                     #Streamlit application
 
-├── model/
+── model/
 
-│   └── rf_respiratory_risk.pkl   #Trained Random Forest model
+   └── rf_respiratory_risk.pkl   #Trained Random Forest model
 
-│   └── scaler.pkl
+   └── scaler.pkl
 
-├── data/
+── data/
 
-│   └── imputed_daily_AQ_2015_2025.csv
+   └── imputed_daily_AQ_2015_2025.csv
 
-├── model.ipynb                #model training & evaluation notebook
+── model.ipynb                #model training & evaluation notebook
 
-├── requirements.txt
+── requirements.txt
 
-├── venv/
+── venv/
 
 Installation & Setup
 A) Create and activate virtual environment
