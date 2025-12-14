@@ -38,15 +38,25 @@ State names are retained for analysis and visualization, but not used as model i
 
 Project Structure :
 Respiratory-illness-risk-predictor/
+
 │
+
 ├── app.py                     #Streamlit application
+
 ├── model/
+
 │   └── rf_respiratory_risk.pkl   #Trained Random Forest model
+
 │   └── scaler.pkl
+
 ├── data/
+
 │   └── imputed_daily_AQ_2015_2025.csv
+
 ├── model.ipynb                #model training & evaluation notebook
+
 ├── requirements.txt
+
 ├── venv/
 
 Installation & Setup
