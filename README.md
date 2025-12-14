@@ -43,11 +43,9 @@ Respiratory-illness-risk-predictor/
 
 ── app.py                     #Streamlit application
 
-── model/
+── rf_respiratory_risk.pkl   #Trained Random Forest model
 
-   └── rf_respiratory_risk.pkl   #Trained Random Forest model
-
-   └── scaler.pkl
+── scaler.pkl
 
 ── data/
 
