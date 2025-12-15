@@ -41,21 +41,23 @@ Project Structure :
 Respiratory-illness-risk-predictor/
 
 
-── app.py                     #Streamlit application
+── app.py                     
 
-── rf_respiratory_risk.pkl   #Trained Random Forest model
+── rf_respiratory_risk.pkl   
 
 ── scaler.pkl
 
 ── imputed_daily_AQ_2015_2025.csv
 
-── model.ipynb                #model training & evaluation notebook
+── model.ipynb                
 
 ── requirements.txt
 
 ── venv/
 
+
 Installation & Setup
+
 A) Create and activate virtual environment
 
 python3 -m venv venv
