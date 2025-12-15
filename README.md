@@ -47,8 +47,6 @@ Respiratory-illness-risk-predictor/
 
 ── scaler.pkl
 
-── data/
-
 ── imputed_daily_AQ_2015_2025.csv
 
 ── model.ipynb                #model training & evaluation notebook
@@ -59,18 +57,24 @@ Respiratory-illness-risk-predictor/
 
 Installation & Setup
 A) Create and activate virtual environment
+
 python3 -m venv venv
+
 source venv/bin/activate
 
+
 B) Install dependencies
+
 pip install -r requirements.txt
 
 C)  the Streamlit app
+
 streamlit run app.py
 
 
 The app will be available at:
 http://localhost:8501
+
 
 Dependencies :
 
