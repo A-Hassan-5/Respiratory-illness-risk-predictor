@@ -94,3 +94,7 @@ joblib
 
 plotly
 
+matplotlib
+
+seaborn
+
