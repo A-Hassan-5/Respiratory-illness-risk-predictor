@@ -1,6 +1,6 @@
 # 🫁 Respiratory Illness Risk Predictor
 
-> A machine learning–powered dashboard that predicts respiratory illness risk from air quality and weather data — supporting public health awareness and early smog-related risk warnings across the United States.
+> A machine learning–powered dashboard that predicts respiratory illness risk from air quality and weather data, supporting public health awareness and early smog-related risk warnings across the United States.
 
 ---
 
